@@ -1,6 +1,7 @@
 Rencana konten tri
  -JS
  - Framework JS
+  *Angular
   *React
-  *Vue
- - Web API
+ - PHP Frameworks
+  *Laravel

@@ -3,5 +3,7 @@ Rencana konten tri
  - Framework JS
   *Angular
   *React
- - PHP Frameworks
-  *Laravel
+  *Vue
+ - Web API
+ - PHP Native
+ - OOP
